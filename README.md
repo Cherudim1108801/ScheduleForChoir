@@ -1,0 +1,3 @@
+# ScheduleForChoir
+合唱団向け出席情報管理システム
+pythonの勉強込みでDjangoで作ってみる
