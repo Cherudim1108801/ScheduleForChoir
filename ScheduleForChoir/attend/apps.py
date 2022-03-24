@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class TopmenuConfig(AppConfig):
+class AttendConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'topmenu'
+    name = 'attend'
